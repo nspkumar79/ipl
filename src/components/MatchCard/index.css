@@ -1,0 +1,27 @@
+.recent-item-container {
+  width: 30%;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  border-radius: 7px;
+  background-color: #1e293b;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.heading {
+  font-size: 25px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.name {
+  font-size: 18px;
+  color: #ffffff;
+}
+.team-logo {
+  height: 250px;
+  width: 250px;
+}
